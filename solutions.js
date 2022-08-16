@@ -20,6 +20,14 @@
  * and
  * concat
  */
-function isTrue (input){
+function isTrue(input){
     return input === true;
+}
+
+function isFalse(input){
+    return input === false;
+}
+
+function not(input){
+    return
 }
