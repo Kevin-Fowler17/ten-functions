@@ -29,5 +29,5 @@ function isFalse(input){
 }
 
 function not(input){
-    return
+    return !input;
 }
